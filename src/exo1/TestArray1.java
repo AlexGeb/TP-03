@@ -46,7 +46,7 @@ public class TestArray1 {
 		System.out.println("} ===> " + arg.length + " elements");
 	}
 	
-	/** display all elements of param entry superior to param maxvalue
+	/** display all elements of entry superior to max value
 	 * @param entry array to filter
 	 * @param maxvalue
 	 */
@@ -90,7 +90,7 @@ public class TestArray1 {
 		System.out.println("the max is : " + max);
 	}
 	
-	/** display the smaller int
+	/** display the smaller integer
 	 * @param entry array of integer
 	 */
 	public static void displaySmaller(int[] entry) {
